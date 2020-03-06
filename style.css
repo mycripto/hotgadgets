@@ -1,4 +1,11 @@
 
 .container{
-    margin-bottom: 100px;
 }
+.buy-now-btn{
+    width: 100px;
+    border-radius: 8px;
+    color: white;
+    background-image: linear-gradient(to bottom, #FF1872 0%, #FF5297 100%);
+    box-shadow: 5px 5px 5px 0px lightgray;
+}
+
