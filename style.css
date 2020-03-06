@@ -9,10 +9,51 @@
     box-shadow: 5px 5px 5px 0px lightgray;
 }
 #see-all{
-    text-align: right;
+    float: right;
+    text-decoration: orange;
     color: orange;
     padding-top: 25px;
 }
 .phone-deck{
     margin-bottom: 100px;
+}
+.laptop-deck{
+    margin-bottom: 100px;
+}
+.catagories{
+    margin-bottom: 100px;
+}
+#bag-div{
+    padding-top: 70px;
+    padding-left: 150px;
+}
+.perfume{
+    padding-bottom: 10px;  
+}
+.shoe{
+    padding-top: 10px;
+}
+#bag, #perfume, #shoe{
+    padding: 10px;
+    border-radius: 5px;
+    box-sizing: border-box;
+    box-shadow: 2px 2px 3px 3px lightgray    
+}
+#pale{
+    float: left;
+    height: 300px;
+    margin-top: -20px;
+    margin-left: -150px;
+}
+.cat-head{
+    margin-bottom: 100px;
+}
+.line{
+    height: 6px;
+    width: 80px;
+    background-image: linear-gradient(to left, gold, rgb(214, 218, 15));
+    margin-left: 46%;
+    margin-top: 20px;
+    border-radius: 5px;
+
 }
