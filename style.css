@@ -8,4 +8,11 @@
     background-image: linear-gradient(to bottom, #FF1872 0%, #FF5297 100%);
     box-shadow: 5px 5px 5px 0px lightgray;
 }
-
+#see-all{
+    text-align: right;
+    color: orange;
+    padding-top: 25px;
+}
+.phone-deck{
+    margin-bottom: 100px;
+}
